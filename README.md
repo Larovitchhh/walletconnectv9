@@ -1,17 +1,16 @@
-# A Blank Project
+Production Ready
+The final stable version of the Tipping & NFT protocol for Stacks. Optimized for AppKit (Reown).
 
-This blank project conforms to [Clarinet-compliant](https://docs.hiro.so/clarinet/how-to-guides/how-to-create-new-project) project structure. 
+🛠️ Features
+Guaranteed Minting: Simplified logic to ensure successful execution in any node environment.
 
-## Build your Contract
+AppKit Compatible: Fully testable with WalletConnect providers.
 
-You can start your journey by reviewing the project structure, particularly the [Clarinet.toml](/examples/blank-project/Clarinet.toml). 
+STX Integration: Direct tipping flow to a secure treasury address.
 
-+ Start by adding a new contract using [Clarinet](https://docs.hiro.so/stacks/clarinet)
-+ Navigate to the `/contracts` folder to review or iterate your contract's business logic
-+ Navigate to `/tests` to build the test harness
+🔗 Integration Flow
+Connect via AppKit.
 
-## Test your Contract
+Call donate to send STX.
 
-+ You can manually test your your contracts in the [Clarinet console](https://docs.hiro.so/clarinet/how-to-guides/how-to-test-contract#load-contracts-in-a-console).
-+ You can programmatically test your contracts with [unit tests](https://docs.hiro.so/clarinet/how-to-guides/how-to-test-contract).
-
+Call claim-membership to receive your Founding Member NFT.
